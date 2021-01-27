@@ -1,0 +1,40 @@
+Troys-MacBook:examples tge$ python3 creator-psoc4ble-ble-heart-rate-sensor-macos-bleak.py 
+Scanning...
+found a HeartRateService advertisement
+Connected
+Stopped scan
+Fetch connection
+Device: Cypress Semiconductor HRS v1.0 & BAS v1.0
+Location: Wrist
+HeartRateMeasurementValues(heart_rate=108, contact=False, energy_expended=None, rr_intervals=[555])
+HeartRateMeasurementValues(heart_rate=132, contact=True, energy_expended=None, rr_intervals=[454, 455])
+HeartRateMeasurementValues(heart_rate=144, contact=True, energy_expended=None, rr_intervals=[416, 417])
+HeartRateMeasurementValues(heart_rate=156, contact=True, energy_expended=None, rr_intervals=[384, 385])
+HeartRateMeasurementValues(heart_rate=168, contact=False, energy_expended=None, rr_intervals=[357, 358])
+HeartRateMeasurementValues(heart_rate=180, contact=False, energy_expended=None, rr_intervals=[333, 334, 335])
+HeartRateMeasurementValues(heart_rate=192, contact=False, energy_expended=None, rr_intervals=[312, 313, 314])
+HeartRateMeasurementValues(heart_rate=204, contact=True, energy_expended=None, rr_intervals=[294, 295, 296])
+HeartRateMeasurementValues(heart_rate=216, contact=True, energy_expended=10380, rr_intervals=[277, 278, 279])
+HeartRateMeasurementValues(heart_rate=228, contact=True, energy_expended=None, rr_intervals=[263, 264, 265])
+HeartRateMeasurementValues(heart_rate=240, contact=False, energy_expended=None, rr_intervals=[250, 251, 252, 253])
+HeartRateMeasurementValues(heart_rate=252, contact=False, energy_expended=None, rr_intervals=[238, 239, 240, 241])
+HeartRateMeasurementValues(heart_rate=264, contact=False, energy_expended=None, rr_intervals=[227, 228, 229, 230])
+HeartRateMeasurementValues(heart_rate=276, contact=True, energy_expended=None, rr_intervals=[217, 218, 219, 220])
+HeartRateMeasurementValues(heart_rate=288, contact=True, energy_expended=None, rr_intervals=[208, 209, 210, 211])
+HeartRateMeasurementValues(heart_rate=300, contact=True, energy_expended=None, rr_intervals=[200, 201, 202, 203, 204])
+HeartRateMeasurementValues(heart_rate=60, contact=False, energy_expended=None, rr_intervals=[1000])
+HeartRateMeasurementValues(heart_rate=72, contact=False, energy_expended=None, rr_intervals=[833])
+HeartRateMeasurementValues(heart_rate=84, contact=False, energy_expended=10400, rr_intervals=[714])
+HeartRateMeasurementValues(heart_rate=96, contact=True, energy_expended=None, rr_intervals=[625])
+HeartRateMeasurementValues(heart_rate=108, contact=True, energy_expended=None, rr_intervals=[555])
+HeartRateMeasurementValues(heart_rate=120, contact=True, energy_expended=None, rr_intervals=[500, 501])
+HeartRateMeasurementValues(heart_rate=132, contact=False, energy_expended=None, rr_intervals=[454, 455])
+HeartRateMeasurementValues(heart_rate=144, contact=False, energy_expended=None, rr_intervals=[416, 417])
+HeartRateMeasurementValues(heart_rate=156, contact=False, energy_expended=None, rr_intervals=[384, 385])
+HeartRateMeasurementValues(heart_rate=168, contact=True, energy_expended=None, rr_intervals=[357, 358])
+HeartRateMeasurementValues(heart_rate=180, contact=True, energy_expended=None, rr_intervals=[333, 334, 335])
+HeartRateMeasurementValues(heart_rate=192, contact=True, energy_expended=None, rr_intervals=[312, 313, 314])
+HeartRateMeasurementValues(heart_rate=204, contact=False, energy_expended=10420, rr_intervals=[294, 295, 296])
+HeartRateMeasurementValues(heart_rate=216, contact=False, energy_expended=None, rr_intervals=[277, 278, 279])
+HeartRateMeasurementValues(heart_rate=228, contact=False, energy_expended=None, rr_intervals=[263, 264, 265])
+HeartRateMeasurementValues(heart_rate=240, contact=True, energy_expended=None, rr_intervals=[250, 251, 252, 253])
